@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Envファイル
+.env
+
+# SQLite（使っていない場合でも一応）
+db.sqlite3
+
+# VSCodeなどの設定
+.vscode/
